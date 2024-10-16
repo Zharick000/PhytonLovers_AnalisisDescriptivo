@@ -45,7 +45,7 @@ desviación estándar, percentiles, etc.
 6. **Conclusiones**: Observaciones clave derivadas del análisis. 
 
 ## Estructura de datos 
-Los datos utilizados en este análisis están relacionados con un programa del gobierno nacional donde se documenta el seguimiento de los colegios a los que se les proporciona un computador a los estudiantes, con el fin de ver el impacto social que genera el acceso de las TIC en los estudiantes, además, de fomentar la calidad de la educación bajo un modelo sostenible, y provienen de Datos Abiertos Colombia.
+Los datos utilizados en este análisis están relacionados con el acceso a internet que obtiene la comunidad a través de redes inalámbricas con tecnología Wi-Fi, a las que cualquier dispositivo inteligente puede conectarse de manera gratuita. Aunque hay un tiempo límite de conexión, esto no impide el número de veces que un dispositivo puede conectarse, y provienen de Datos Abiertos Colombia.
 
 ## Entregables:
 Notebook de Jupyter: Cada sección contendrá un cuaderno de Jupyter con todo el
